@@ -28,7 +28,6 @@ public:
 			case SDLK_UP: VelY -= 15; break;
 			case SDLK_DOWN: VelY += 15; break;
 			}
-			std::cout << "Pos: " << rect.x << " Vel: " << VelX << std::endl;
 			std::cout << SDL_GetError() << std::endl;
 
 		}
