@@ -66,7 +66,6 @@ int main(int argc, char *argv[]) {
 			}
 			box.handlevent(event);
 		}
-		SDL_SetRenderDrawColor(rend, 0xFF, 0xFF, 0xFF, 0xFF);
 		box.move();
 		SDL_RenderClear(rend);
 		SDL_RenderPresent(rend);
