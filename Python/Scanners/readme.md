@@ -21,11 +21,10 @@ Feel free to explore each file to see examples of scanning utilities in python
 
 ## How to Use
 
-1. Choose a programming language directory.
-2. Open the scanner file in your preferred code editor.
-3. Read through the code to understand how it works.
-4. Run the scanner and follow the prompts to see it in action.
-5. Experiment with modifying the code to enhance your learning experience.
+1. Open the scanner file in your preferred python ide
+2. Read through the code to understand how it works.
+3. Run the scanner and follow the prompts to see it in action.
+4. Experiment with modifying the code to enhance your learning experience.
 
 ## Contributions
 
