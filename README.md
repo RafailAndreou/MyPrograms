@@ -1,4 +1,4 @@
-# Welcome to [Repository Name]!
+# Welcome to [My Programs]!
 
 ## Overview
 This repository contains multiple projects, each serving a different purpose. Most of them where made while learning the programming languages. Below is a brief overview of the projects included:
